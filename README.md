@@ -1,4 +1,4 @@
-# primeirodeML
+# PrimeirodeML
 ## Criando um ambiente do azure machine learning com o objetivo de prever futuras vendas de sorvete, baseadas em venda de acordo com a temperatura do dia.
 ### Primeiro, criei um grupo de recursos para colocar o workspace a ser criado para treinamento.
 <img src="Print0.png" width="300"> 
